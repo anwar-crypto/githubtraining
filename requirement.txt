@@ -5,3 +5,6 @@ color
 vibrant
 darkmode
 videocall
+payment option
+send money
+recieeve money
