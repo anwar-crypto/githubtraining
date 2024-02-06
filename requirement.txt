@@ -2,3 +2,6 @@ this is chat aoolication
 emoji
 type option
 color
+vibrant
+darkmode
+videocall
